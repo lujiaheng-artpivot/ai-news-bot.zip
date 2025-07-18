@@ -1,2 +1,2 @@
-# ai-news-bot.zip
-1
+# AI News Bot
+This bot fetches daily AI news and posts to Feishu.
